@@ -1,0 +1,3 @@
+- axios -> biblioteca de requisições
+- react-modal -> biblioteca de modals
+- polished -> biblioteca de funções para manipulação de cores
